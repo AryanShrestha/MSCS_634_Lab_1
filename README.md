@@ -10,7 +10,7 @@ Used Kaggle dataset **sample-superstorecsv** by *konstantinognev* and placed the
 Kaggle page: https://www.kaggle.com/datasets/konstantinognev/sample-superstorecsv
 
 ## Steps Included
-1. Data Collection (.head())
+1. Data Collection
 2. Visualizations (scatter, histogram, line)
 3. Preprocessing: missing values, IQR outliers, reduction, scaling & discretization
 4. Statistical analysis: info/describe, central tendency, dispersion, correlation
